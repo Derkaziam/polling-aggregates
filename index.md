@@ -16,7 +16,7 @@ Aggregates will be updated either weekly or bi-weekly
 ### United States Generic Ballot 2022
 <div class="flourish-embed flourish-chart" data-src="visualisation/10673157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Joe Biden Approval
+## Joe Biden Approval
 
 Coming Soon!
 
