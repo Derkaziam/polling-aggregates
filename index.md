@@ -18,7 +18,7 @@ Aggregates will be updated either weekly or bi-weekly
 
 ### Joe Biden Approval
 
-Coming Soon!
+<div class="flourish-embed flourish-chart" data-src="visualisation/10718866"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Method
 
