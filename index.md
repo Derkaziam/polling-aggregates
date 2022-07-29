@@ -24,6 +24,12 @@ Aggregates will be updated either weekly or bi-weekly
 
 Coming Soon!
 
-## Method
+### Method
 
 Polls are first taken from one of a handful of sources; including FiveThirtyEight, RealClearPolitics, and Wikipedia. They are then averaged by day, days without polls are computed using a simple forumla. To get the final aggregate polls are put through a 14-day average based on recency.
+
+## Partisan Voter Index
+
+### US Presidential
+<iframe src=https://www.yapms.com/app/?m=gt1j></iframe>
+
