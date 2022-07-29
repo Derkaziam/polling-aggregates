@@ -31,5 +31,5 @@ Polls are first taken from one of a handful of sources; including FiveThirtyEigh
 ## Partisan Voter Index
 
 ### US Presidential
-<iframe src=https://www.yapms.com/app/?u=1rl&m=dGVzdA==></iframe>
+<div class="flourish-embed flourish-map" data-src="visualisation/10775624"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
