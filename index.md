@@ -4,7 +4,7 @@
 
 I have a whole host of elections, from the UK, US, and more! Message me on Discord (Derkaziam#4790) to request an aggregate.
 
-Aggregates will be updated either weekly or bi-weekly
+Aggregates will be updated either weekly or bi-weekly. This is all run by one person, so I might not be able to get everything updated on time!
 
 ## United States 🇺🇸
 
