@@ -11,18 +11,11 @@ Aggregates will be updated either weekly or bi-weekly. This is all run by one pe
 ### United States Generic Ballot 2022
 <div class="flourish-embed flourish-chart" data-src="visualisation/10673157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Joe Biden Approval 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/10718866"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Europe 🇪🇺
 
-### United Kingdom Next General Election
+### United Kingdom Next General Election (BEING REDONE)
 <div class="flourish-embed flourish-chart" data-src="visualisation/10672849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-### Swedish General Election
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/10929039"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Method
 
