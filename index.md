@@ -8,13 +8,11 @@ Aggregates will be updated either weekly or bi-weekly. This is all run by one pe
 
 ## United States 🇺🇸
 
-### United States Generic Ballot 2022
 <div class="flourish-embed flourish-chart" data-src="visualisation/10673157"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Europe 🇪🇺
 
-### United Kingdom Next General Election
 <div class="flourish-embed flourish-chart" data-src="visualisation/10672849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Method
