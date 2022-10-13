@@ -14,7 +14,7 @@ Aggregates will be updated either weekly or bi-weekly. This is all run by one pe
 
 ## Europe 🇪🇺
 
-### United Kingdom Next General Election (BEING REDONE)
+### United Kingdom Next General Election
 <div class="flourish-embed flourish-chart" data-src="visualisation/10672849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Method
